@@ -1,0 +1,8 @@
+[flake8]
+exclude =
+    __pycache__
+    .vscode
+    libs
+    notebooks
+    workflow
+    examples
